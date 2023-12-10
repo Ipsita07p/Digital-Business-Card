@@ -1,7 +1,7 @@
 import React from "react";
 import profilePicture from "../images/profile_logo.png";
 import emailIcon from '../images/envelope-solid.svg';
-import linkedInIcon from '../images/linkedin.svg';
+import linkedinIcon from '../images/linkedin.svg';
 
 export default function Info(){
     return(
@@ -18,8 +18,8 @@ export default function Info(){
                     </button>
                 </a>
                 <a herf='https://www.linkedin.com/in/ipsita708/'>
-                    <button className="linkedIn-button">
-                        <img src={linkedInIcon} className="linkedInIcon" />
+                    <button className="linkedin-button">
+                        <img src={linkedinIcon} className="linkedinIcon" />
                         LinkedIn
                     </button>
                 </a>
