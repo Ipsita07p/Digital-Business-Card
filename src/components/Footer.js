@@ -1,6 +1,5 @@
 import React from "react";
 import Twitter from "../images/square-twitter.svg";
-import Facebook from "../images/square-facebook.svg";
 import Instagram from "../images/square-instagram.svg";
 import Github from "../images/square-github.svg"
 
@@ -11,11 +10,6 @@ export default function Footer() {
                 <li>
                     <a href="#">
                     <img src={Twitter} />
-                    </a>
-                </li>
-                <li>
-                    <a href="#">
-                        <img src={Facebook} />  
                     </a>
                 </li>
                 <li>

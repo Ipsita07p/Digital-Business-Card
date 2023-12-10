@@ -17,7 +17,7 @@ export default function Info(){
                         Email
                     </button>
                 </a>
-                <a herf='https://www.linkedin.com/in/ipsita708/'>
+                <a href='https://www.linkedin.com/in/ipsita708/'>
                     <button className="linkedin-button">
                         <img src={linkedinIcon} className="linkedinIcon" />
                         LinkedIn
